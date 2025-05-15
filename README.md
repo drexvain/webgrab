@@ -3,3 +3,9 @@ webgrab is a lightweight python tool that quickly downloads the main html page o
 (tool i made when i was 12]
 # how to use it
 launch the python file and type the url of the website,really easy
+
+```git clone https://github.com/drexvain/webgrab.git
+cd webgrab
+pip install -r requirements.txt
+python webgrab.py
+```
